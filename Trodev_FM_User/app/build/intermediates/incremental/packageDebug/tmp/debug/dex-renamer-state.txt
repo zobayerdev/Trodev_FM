@@ -1,0 +1,4 @@
+#Sat Sep 17 02:42:34 BDT 2022
+base.0=E\:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

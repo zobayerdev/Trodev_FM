@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_library.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_library.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\font_bold.ttf.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\font\\bold.ttf"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_library.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_library.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_cloud_upload_24.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_cloud_upload_24.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_music_note_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_music_note_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_audio.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_audio.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_thumbnail.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_thumbnail.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_library_music_24.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_library_music_24.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_more_vert_24.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_queue_music_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_queue_music_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_library_music_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_library_music_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_photo_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_photo_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_layout.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\drawable\\edit_text_layout.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_album_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_album_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_photo_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_photo_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_library_music_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_library_music_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\font_mridul_slim.otf.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\font\\mridul_slim.otf"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_thumbnail.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_thumbnail.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_audio.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_audio.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_cloud_upload_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_cloud_upload_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_photo_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_photo_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_photo_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_photo_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit_to_app_24dp.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app_24dp.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_music_note_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_music_note_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_library_music_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_library_music_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_photo_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_photo_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_cloud_upload_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_cloud_upload_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_album_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_album_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_album_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_album_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_audio.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_audio.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_songs_list_layout.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\layout\\songs_list_layout.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_cloud_upload_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_cloud_upload_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_queue_music_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_queue_music_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\font_ubuntu_medium.ttf.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\font\\ubuntu_medium.ttf"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_queue_music_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_queue_music_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_thumbnail.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_thumbnail.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_album_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_album_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_thumbnail.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_thumbnail.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_music.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_library.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_library.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_cloud_upload_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_cloud_upload_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_music_note_24dp.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_music_note_24dp.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_library.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_library.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_audio.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_audio.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_queue_music_black_24dp.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_queue_music_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\font_mridul_bold.otf.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\font\\mridul_bold.otf"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_songs_list_layout.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\layout-v21\\songs_list_layout.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_song.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\layout\\activity_upload_song.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_photo_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_photo_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_album_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_album_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_thumbnail.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_thumbnail.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_music_note_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_music_note_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_cloud_upload_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_cloud_upload_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_audio.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_audio.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\font_ubuntu_bold.ttf.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\font\\ubuntu_bold.ttf"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_audio.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_audio.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_library_music_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_library_music_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_library.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_library.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_thumbnail.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_thumbnail.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_music_note_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_music_note_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_library_music_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_library_music_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_library.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_library.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_library_music_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_library_music_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_photo_24.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_photo_24.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_audio.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_audio.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit_to_app_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_thumbnail.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_thumbnail.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_album_black_24dp.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_album_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_app_menu.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\menu\\app_menu.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_more_vert_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\font_ubuntu_regular.ttf.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\font\\ubuntu_regular.ttf"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_photo_alternate_24.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_photo_alternate_24.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_layout.xml.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\drawable\\button_layout.xml"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_queue_music_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_queue_music_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_cloud_upload_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_cloud_upload_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_music_note_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_music_note_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_album_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_album_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_queue_music_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_queue_music_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_queue_music_black_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_queue_music_black_24dp.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_library.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_library.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_music_note_24dp.png.flat",
+        "source": "E:\\GItHub\\Firebase-Music-Streaming-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_music_note_24dp.png"
+    }
+]
